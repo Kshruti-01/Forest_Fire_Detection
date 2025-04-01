@@ -1,1 +1,1 @@
-# Forest_Fire_Detection
+# Forest_Fire_Detection_using_DEEP_LEARNING
